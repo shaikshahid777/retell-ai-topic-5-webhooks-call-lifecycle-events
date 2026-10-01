@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/retell-topic5-banner.svg" alt="Retell AI Topic 5 Banner" width="100%"/>
+
 # ✨ Retell AI — Webhooks & Call Lifecycle Events
 
 ### Topic 5 • Hands-On Beginner Assessment
@@ -22,7 +24,7 @@
 
 | 🎬 Demo | 📄 Documentation | 🔗 Webhook | 📸 Evidence |
 |---|---|---|---|
-| [Watch Loom](https://www.loom.com/share/08b977186d4b416b85740f966de3d9a7) | [Open Assessment PDF](./Retell_AI_Topic_5_LMS_Assessment_Documentation.pdf) | [Open Webhook.site](https://webhook.site/5f95e2c4-87d3-4114-bf4a-5d9bdb540666) | [Repository files](./) |
+| [Watch Loom](https://www.loom.com/share/08b977186d4b416b85740f966de3d9a7) | [Open Assessment PDF](./Retell_AI_Topic_5_LMS_Assessment_Documentation.pdf) | [Open Webhook.site](https://webhook.site/5f95e2c4-87d3-4114-bf4a-5d9bdb540666) | [Read Evidence Notes](./EVIDENCE.md) |
 
 > **Assessment focus:** configure a Retell AI webhook, validate lifecycle events, inspect JSON payloads, understand signature verification, and document call metadata.
 
@@ -148,7 +150,9 @@ The demonstration covers:
 
 ## 📄 Documentation
 
-### [Open the full LMS Assessment Documentation →](./Retell_AI_Topic_5_LMS_Assessment_Documentation.pdf)
+### [📄 Open the full LMS Assessment Documentation →](./Retell_AI_Topic_5_LMS_Assessment_Documentation.pdf)
+
+### [🔎 Open Evidence Notes →](./EVIDENCE.md)
 
 The PDF contains the assessment overview, requirements, implementation plan, test plan, checklist, evidence summary, and submission links.
 
@@ -188,6 +192,7 @@ Screenshots can be added under `assets/` and linked here as the assessment evide
 retell-ai-topic-5-webhooks-call-lifecycle-events/
 ├── README.md
 ├── Retell_AI_Topic_5_LMS_Assessment_Documentation.pdf
+├── EVIDENCE.md
 └── assets/
     └── (assessment screenshots / evidence)
 ```
